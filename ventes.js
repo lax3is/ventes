@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Odoo - Lignes annulées en rouge (classe text-muted sur tr)
+// @name         ventes
 // @namespace    http://tampermonkey.net/
 // @version      2.3
 // @description  Met en rouge toutes les lignes annulées (tr.text-muted) sur Odoo Contacts/Devis
-// @author       TonNom
+// @author       alexis sair
 // @match        https://winprovence.odoo.com/web*
+// @updateURL    https://raw.githubusercontent.com/lax3is/ventes/refs/heads/main/ventes.js
+// @downloadURL  https://raw.githubusercontent.com/lax3is/ventes/refs/heads/main/ventes.js
 // @grant        none
 // ==/UserScript==
 
